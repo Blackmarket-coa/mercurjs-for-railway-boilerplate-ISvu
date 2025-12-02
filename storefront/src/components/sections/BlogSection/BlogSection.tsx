@@ -4,27 +4,27 @@ import { BlogCard } from '@/components/organisms';
 export const blogPosts: BlogPost[] = [
   {
     id: 1,
-    title: "Summer's Most Elegant Accessories",
+    title: "Stop paying commissions, Start selling everywhere. Multi-platform sales points when you join the collective.",
     excerpt:
-      "Discover this season's most sophisticated accessories that blend timeless elegance with modern design.",
+      "See what the Community Marketplace has to offer.",
     image: '/images/blog/post-1.jpg',
     category: 'ACCESSORIES',
     href: '#',
   },
   {
     id: 2,
-    title: 'The Season’s Hottest Trends',
+    title: 'If you can ship it, you can sell it',
     excerpt:
-      'From bold colors to nostalgic silhouettes, explore the must-have looks defining this season’s fashion narrative.',
+      'Get what you need in one place from community members close to you. We select the community vendors closest to your location. This keeps our carbon footprint and shipping costs low.',
     image: '/images/blog/post-2.jpg',
     category: 'STYLE GUIDE',
     href: '#',
   },
   {
     id: 3,
-    title: 'Minimalist Outerwear Trends',
+    title: 'Commission Free Marketplace',
     excerpt:
-      'Explore the latest minimalist outerwear pieces that combine functionality with clean aesthetics.',
+      'We keep the cost down. Collective Marketplace fees are $9 a month. No commission and no transaction fees.',
     image: '/images/blog/post-3.jpg',
     category: 'TRENDS',
     href: '#',
