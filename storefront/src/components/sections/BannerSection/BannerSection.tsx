@@ -12,11 +12,10 @@ export const BannerSection = () => {
               #COLLECTION
             </span>
             <h2 className="display-sm">
-              BOHO VIBES: WHERE COMFORT MEETS CREATIVITY
+              Your community. Your marketplace. Your profits.
             </h2>
             <p className="text-lg text-tertiary max-w-lg">
-              Discover boho styles that inspire adventure and embrace the beauty
-              of the unconventional.
+              Check out the products your community has to offer and offer something of your own.
             </p>
           </div>
           <LocalizedClientLink href="/collections/boho">
