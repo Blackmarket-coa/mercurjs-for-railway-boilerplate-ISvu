@@ -16,15 +16,15 @@ export const metadata: Metadata = {
   title: {
     template: `%s | ${
       process.env.NEXT_PUBLIC_SITE_NAME ||
-      "The Black Market"
+      "Black Market Coalition"
     }`,
     default:
       process.env.NEXT_PUBLIC_SITE_NAME ||
-      "The Black Market",
+      "Black Market Coalition",
   },
   description:
     process.env.NEXT_PUBLIC_SITE_DESCRIPTION ||
-    "The Black Marke",
+    "The Black Market",
   metadataBase: new URL(
     process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000"
   ),
